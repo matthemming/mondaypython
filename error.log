@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<ipython-input-14-765e66dd38f6>", line 2, in <module>
+    d['Costa']
+KeyError: 'Costa'
+Traceback (most recent call last):
+  File "<ipython-input-16-1c9f3544f15c>", line 2, in <module>
+    d['costa']
+KeyError: 'costa'
